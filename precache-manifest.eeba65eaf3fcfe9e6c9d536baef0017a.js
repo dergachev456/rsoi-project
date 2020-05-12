@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71220245fec1f0ff5e120626d16c7e46",
+    "revision": "8aca1588f2a23e0a09f4c913af2ebfc8",
     "url": "/rsoi-project/index.html"
   },
   {
-    "revision": "6e0a7a314c6c88b16ba7",
-    "url": "/rsoi-project/static/css/main.5fe63ed4.chunk.css"
+    "revision": "3fad5371bc7a9bb8d374",
+    "url": "/rsoi-project/static/css/main.baf7b3fe.chunk.css"
   },
   {
     "revision": "820e46f29885c5ea2fda",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rsoi-project/static/js/2.d327b532.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6e0a7a314c6c88b16ba7",
-    "url": "/rsoi-project/static/js/main.11195c16.chunk.js"
+    "revision": "3fad5371bc7a9bb8d374",
+    "url": "/rsoi-project/static/js/main.c318438a.chunk.js"
   },
   {
     "revision": "d9ba6a741c1e6e0ef95f",

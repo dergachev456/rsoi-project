@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/rsoi-project/static/css/main.5fe63ed4.chunk.css",
-    "main.js": "/rsoi-project/static/js/main.11195c16.chunk.js",
-    "main.js.map": "/rsoi-project/static/js/main.11195c16.chunk.js.map",
+    "main.css": "/rsoi-project/static/css/main.baf7b3fe.chunk.css",
+    "main.js": "/rsoi-project/static/js/main.c318438a.chunk.js",
+    "main.js.map": "/rsoi-project/static/js/main.c318438a.chunk.js.map",
     "runtime-main.js": "/rsoi-project/static/js/runtime-main.7e49d097.js",
     "runtime-main.js.map": "/rsoi-project/static/js/runtime-main.7e49d097.js.map",
     "static/js/2.d327b532.chunk.js": "/rsoi-project/static/js/2.d327b532.chunk.js",
     "static/js/2.d327b532.chunk.js.map": "/rsoi-project/static/js/2.d327b532.chunk.js.map",
     "index.html": "/rsoi-project/index.html",
-    "precache-manifest.aceda75a7ae7e6054d7b9265b4c6ab39.js": "/rsoi-project/precache-manifest.aceda75a7ae7e6054d7b9265b4c6ab39.js",
+    "precache-manifest.eeba65eaf3fcfe9e6c9d536baef0017a.js": "/rsoi-project/precache-manifest.eeba65eaf3fcfe9e6c9d536baef0017a.js",
     "service-worker.js": "/rsoi-project/service-worker.js",
-    "static/css/main.5fe63ed4.chunk.css.map": "/rsoi-project/static/css/main.5fe63ed4.chunk.css.map",
+    "static/css/main.baf7b3fe.chunk.css.map": "/rsoi-project/static/css/main.baf7b3fe.chunk.css.map",
     "static/js/2.d327b532.chunk.js.LICENSE.txt": "/rsoi-project/static/js/2.d327b532.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7e49d097.js",
     "static/js/2.d327b532.chunk.js",
-    "static/css/main.5fe63ed4.chunk.css",
-    "static/js/main.11195c16.chunk.js"
+    "static/css/main.baf7b3fe.chunk.css",
+    "static/js/main.c318438a.chunk.js"
   ]
 }
