@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rsoi-project/static/css/main.4d5f9674.chunk.css",
+    "main.js": "/rsoi-project/static/js/main.11195c16.chunk.js",
+    "main.js.map": "/rsoi-project/static/js/main.11195c16.chunk.js.map",
+    "runtime-main.js": "/rsoi-project/static/js/runtime-main.7e49d097.js",
+    "runtime-main.js.map": "/rsoi-project/static/js/runtime-main.7e49d097.js.map",
+    "static/js/2.d327b532.chunk.js": "/rsoi-project/static/js/2.d327b532.chunk.js",
+    "static/js/2.d327b532.chunk.js.map": "/rsoi-project/static/js/2.d327b532.chunk.js.map",
+    "index.html": "/rsoi-project/index.html",
+    "precache-manifest.c58085a8a1ee669d3f3191d9497bd9b9.js": "/rsoi-project/precache-manifest.c58085a8a1ee669d3f3191d9497bd9b9.js",
+    "service-worker.js": "/rsoi-project/service-worker.js",
+    "static/css/main.4d5f9674.chunk.css.map": "/rsoi-project/static/css/main.4d5f9674.chunk.css.map",
+    "static/js/2.d327b532.chunk.js.LICENSE.txt": "/rsoi-project/static/js/2.d327b532.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e49d097.js",
+    "static/js/2.d327b532.chunk.js",
+    "static/css/main.4d5f9674.chunk.css",
+    "static/js/main.11195c16.chunk.js"
+  ]
+}
